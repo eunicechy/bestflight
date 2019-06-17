@@ -1,0 +1,10 @@
+1. KLIA,Kuala Lumpur, Malaysia
+2. London City Airport,London, UK
+3. Mehrabad International Airport, Tehran, Iran
+4. Beijing Capital International Airport, Beijing, China
+5. Berlin Tegel Airport, Berlin, Germany
+6. Ankara Esenboga Airport, Ankara, Turkey
+7. Incheon International Airport, Seoul, Korea
+8. Tripoli International Airport, Tripoli, Libya
+9. Ministro Pistarini International Airport, Buenos Aires, Argentina
+10. Washington Dulles International Airport, Washington,D.C, US

@@ -1,0 +1,43 @@
+#:import hex kivy.utils.get_color_from_hex
+<Choice>:
+    orientation: "vertical"
+    cols: 3
+    canvas:
+        Color:
+            rgb: hex('#131414')
+        Rectangle:
+            pos: self.pos
+            size: self.size
+
+    BoxLayout:
+        orientation: "vertical"
+
+        Label:
+            text: "Choose Your Destination:"
+        Button:
+            text: "Argentina"
+            on_press: root.choose("Argentina")
+        Button:
+            text: "China"
+            on_press: root.choose("China")
+        Button:
+            text: "Germany"
+            on_press: root.choose("Germany")
+        Button:
+            text: "Iran"
+            on_press: root.choose("Iran")
+        Button:
+            text: "South Korea"
+            on_press: root.choose("Korea")
+        Button:
+            text: "United States"
+            on_press: root.choose("US")
+        Button:
+            text: "United Kingdom"
+            on_press: root.choose("UK")
+        Button:
+            text: "Libya"
+            on_press: root.choose("Libya")
+        Button:
+            text: "Turkey"
+            on_press: root.choose("Turkey")
